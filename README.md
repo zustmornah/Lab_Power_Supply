@@ -1,2 +1,2 @@
 # Lab_Power_Supply
-This repositroy is created to help share code and other resources remotely on the lab power supply project.
+Custom driver for analog-to-digital-convertion and digital-to-analog-convertion on ADS833xEVM and SC70-6DAC EMV Rev A boards.
